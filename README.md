@@ -4,7 +4,7 @@
 Did National Happiness Levels Impact COVID-19 Mortality Rates?
 
 ## Team Members:
-Sydni Pierce
+Sydni Pierce. 
 Anthony Kerins
 
 ## Project Description/Outline:
