@@ -4,8 +4,7 @@
 Did National Happiness Levels Impact COVID-19 Mortality Rates?
 
 ## Team Members:
-Sydni Pierce\s\s
-Anthony Kerins
+Anthony Kerins, Sydni Pierce
 
 ## Project Description/Outline:
 This project will use 2019 happiness statistics pulled from the 2021 World Happiness Report to investigate whether pre-pandemic measures of national happiness correlated with COVID-19 mortality rates in 2020 on a national level.
