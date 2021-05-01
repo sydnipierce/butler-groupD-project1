@@ -11,7 +11,7 @@ This project will use 2019 happiness statistics pulled from the 2021 World Happi
 
 ## Research Questions to Answer:
 * Did countries with higher pre-pandemic national happiness levels have lower COVID-19 mortality rates in 2020?
-* Which measures of national happiness were most strongly correlated with COVID-19 mortality rates?
+* Which measures of national happiness/quality of life were most strongly correlated with COVID-19 mortality rates?
 * How does healthy life expectancy at birth factor into COVID-19 mortality rates?
 
 ## Datasets to Be Used:
